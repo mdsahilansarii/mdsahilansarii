@@ -48,7 +48,6 @@
 
 ## 📫 Connect With Me  
 
-- 📧 Email: [mdsahil93041@gmail.com](mailto:mdsahil93041@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/Sahil](https://www.linkedin.com/in/md-sahil-ansari-829038290)  
 - 🌐 GitHub: [github.com/sahilll786](https://github.com/sahilll786)  
 
