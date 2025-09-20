@@ -40,10 +40,21 @@
 
 ## 📊 GitHub Stats  
 
+## 📊 GitHub Stats  
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sahilll786&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilll786&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
 </p>
+
+---
+
+## 🔥 Streak Stats  
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilll786&theme=tokyonight" alt="GitHub Streak"/>
+</p>
+
 
 ---
 
